@@ -3,7 +3,7 @@ using System.Reflection;
 using UnityEditor;
 using UnityEngine;
 
-namespace Bounce.Framework.Editor
+namespace NCL.Framework.Editor
 {
     /// <summary>
     /// Helper class for instantiating ScriptableObjects.

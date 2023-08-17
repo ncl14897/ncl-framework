@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     public abstract class ScriptableObjectSingleton<T> : ScriptableObject where T : ScriptableObject
     {

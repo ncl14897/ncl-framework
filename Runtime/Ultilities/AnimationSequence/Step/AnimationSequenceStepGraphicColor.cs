@@ -3,7 +3,7 @@ using Sirenix.OdinInspector;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     public class AnimationSequenceStepGraphicColor : AnimationSequenceStepAction<Graphic>
     {

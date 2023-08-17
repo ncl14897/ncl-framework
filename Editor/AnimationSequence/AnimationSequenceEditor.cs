@@ -1,7 +1,7 @@
 using DG.DOTweenEditor;
 using DG.Tweening;
 
-namespace Bounce.Framework.Editor
+namespace NCL.Framework.Editor
 {
     public static class AnimationSequenceEditor
     {

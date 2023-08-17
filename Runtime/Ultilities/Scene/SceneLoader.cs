@@ -2,7 +2,7 @@
 using UnityEngine.SceneManagement;
 using DG.Tweening;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     public class SceneLoader : MonoCached
     {

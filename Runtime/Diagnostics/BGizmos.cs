@@ -2,7 +2,7 @@
 using System;
 using System.Diagnostics;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     public static class BGizmos
     {

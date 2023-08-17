@@ -1,6 +1,6 @@
 using System;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     [Serializable]
     public abstract class AnimationSequenceStep

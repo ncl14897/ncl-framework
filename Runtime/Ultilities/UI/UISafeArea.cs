@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     /// <summary>
     /// Safe area implementation for notched mobile devices. Usage:

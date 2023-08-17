@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     [Serializable]
     public class BValue<T>

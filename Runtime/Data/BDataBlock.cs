@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     public class BDataBlock<T> where T : BDataBlock<T>
     {

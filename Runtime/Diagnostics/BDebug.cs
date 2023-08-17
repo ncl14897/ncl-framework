@@ -2,7 +2,7 @@
 using UnityEngine;
 using Debug = UnityEngine.Debug;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     /// <summary>
     /// Class that contains methods useful for debugging.

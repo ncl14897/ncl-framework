@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     [ExecuteInEditMode]
     public class AnimationSequence : MonoCached

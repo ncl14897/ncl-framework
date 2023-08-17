@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     /// <summary>
     /// Simplified prefab implementation.

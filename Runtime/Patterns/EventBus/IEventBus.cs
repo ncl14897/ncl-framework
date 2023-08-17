@@ -1,4 +1,4 @@
-﻿namespace Bounce.Framework
+﻿namespace NCL.Framework
 {
     /// <summary>
     /// An interface for the event bus pattern.

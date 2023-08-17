@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     /// <summary>
     /// Interface allows to subscribe and unsubscribe from event bus events.

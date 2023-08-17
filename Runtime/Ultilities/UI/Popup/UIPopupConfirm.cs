@@ -3,7 +3,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     public class UIPopupConfirm : UIPopupBehaviour
     {

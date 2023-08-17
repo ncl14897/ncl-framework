@@ -1,6 +1,6 @@
 using UnityEngine.SceneManagement;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     public class UIButtonReloadScene : UIButtonBase
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     /// <summary>
     /// This is the simplest an fastest implementation for the event bus pattern.

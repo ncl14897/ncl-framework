@@ -1,4 +1,4 @@
-﻿namespace Bounce.Framework
+﻿namespace NCL.Framework
 {
     /// <summary>
     /// Interface represents and even distributed via <see cref="IEventBus"/>

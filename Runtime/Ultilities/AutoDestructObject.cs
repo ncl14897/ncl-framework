@@ -2,7 +2,7 @@
 using System;
 using UnityEngine;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     public class AutoDestructObject : MonoCached
     {

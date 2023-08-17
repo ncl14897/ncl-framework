@@ -1,9 +1,9 @@
 #if UNITY_EDITOR
 
-using Bounce.Framework.Editor;
+using NCL.Framework.Editor;
 using UnityEditor;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     [CustomEditor(typeof(AnimationSequence))]
     public class AnimationSequenceInspector : Sirenix.OdinInspector.Editor.OdinEditor

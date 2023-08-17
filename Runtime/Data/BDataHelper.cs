@@ -3,11 +3,11 @@ using System;
 using System.IO;
 using UnityEngine;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     public static class BDataHelper
     {
-        static readonly string s_rootFolder = "Bounce.Framework";
+        static readonly string s_rootFolder = "NCL.Framework";
 
         public static void Save<T>(T data, string filePath)
         {
@@ -53,7 +53,7 @@ namespace Bounce.Framework
         }
 
 #if UNITY_EDITOR
-        [UnityEditor.MenuItem("Bounce/Clear Data")]
+        [UnityEditor.MenuItem("NCL/Clear Data")]
 #endif
         public static void DeleteAll()
         {

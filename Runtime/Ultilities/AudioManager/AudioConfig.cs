@@ -1,7 +1,7 @@
 ﻿using Sirenix.OdinInspector;
 using UnityEngine;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     [System.Serializable]
     public enum AudioType

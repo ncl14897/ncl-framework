@@ -4,7 +4,7 @@ using UnityEditor;
 using UnityEditor.ProjectWindowCallback;
 using UnityEngine;
 
-namespace Bounce.Framework.Editor
+namespace NCL.Framework.Editor
 {
     internal class EndNameEdit : EndNameEditAction
     {

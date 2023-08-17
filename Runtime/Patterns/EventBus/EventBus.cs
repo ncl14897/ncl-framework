@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     /// <summary>
     /// Basic implementation of the <see cref="IEventBus"/>.

@@ -1,7 +1,7 @@
 ﻿using TMPro;
 using UnityEngine;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     [RequireComponent(typeof(TextMeshProUGUI))]
     public class UITextBase : MonoBehaviour

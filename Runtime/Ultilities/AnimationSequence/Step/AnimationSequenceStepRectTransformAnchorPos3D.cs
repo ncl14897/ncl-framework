@@ -1,7 +1,7 @@
 using DG.Tweening;
 using UnityEngine;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     public class AnimationSequenceStepRectTransformAnchorPos3D : AnimationSequenceStepRectTransform
     {

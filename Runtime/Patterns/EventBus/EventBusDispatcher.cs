@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     static class EventBusDispatcher<T> where T : IEvent
     {

@@ -2,7 +2,7 @@ using DG.Tweening;
 using Sirenix.OdinInspector;
 using UnityEngine;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     public class AnimationSequenceStepAction<T> : AnimationSequenceStep where T : class
     {

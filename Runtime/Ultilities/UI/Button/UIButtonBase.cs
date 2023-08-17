@@ -1,6 +1,6 @@
 ﻿using UnityEngine.UI;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     public class UIButtonBase : MonoCached
     {

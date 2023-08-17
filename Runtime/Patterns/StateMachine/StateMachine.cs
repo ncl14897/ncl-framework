@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     /// <summary>
     /// A lightweight state machine.

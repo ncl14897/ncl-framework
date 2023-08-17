@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     /// <summary>
     /// The MonoCallback helper class is meant to be used when you need to have MonoBehaviour default Unity callbacks,

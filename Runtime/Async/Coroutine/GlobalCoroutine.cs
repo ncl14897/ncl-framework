@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using UnityEngine;
 
-namespace Bounce.Framework
+namespace NCL.Framework
 {
     class GlobalCoroutine : MonoSingleton<GlobalCoroutine>
     {

@@ -1,4 +1,4 @@
-﻿namespace Bounce.Framework
+﻿namespace NCL.Framework
 {
     public interface IStateMachine
     {
